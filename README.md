@@ -58,6 +58,16 @@ The repository is structured to take a recruiter through a logical analytical wo
 * 🚀 **Highest Single-Day Gain:** [7.95%] on [2018-12-26]
 * 🐋 **Peak Trading Liquidity:** Highest volume recorded was [1,892,319,700] shares on [2011-01-18]
 
+Closing Price Trend
+ <img width="1002" height="469" alt="image" src="https://github.com/user-attachments/assets/cdbe1329-8070-4021-b264-62ed1801cd38" />
+
+Daily Returns Distribution
+<img width="847" height="469" alt="image" src="https://github.com/user-attachments/assets/a52419f6-551c-474d-8a24-e388c75dccda" />
+
+30‑Day Rolling Volatility
+<img width="986" height="393" alt="image" src="https://github.com/user-attachments/assets/0734b78b-b594-4be7-a07d-1ac68ebb6f5b" />
+
+
 ---
 
 ## 🚀 How to Run This Project
